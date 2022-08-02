@@ -1,0 +1,18 @@
+[
+    {
+        "authorList": [
+            "Sora Tonami"
+        ],
+        "credits": "NGRI学校建設プロジェクト運営 & すべてのコントリビューターたち。",
+        "dependencies": [],
+        "description": "",
+        "logoFile": "",
+        "mcversion": "${mcversion}",
+        "modid": "schoolproject",
+        "name": "School Project",
+        "screenshots": [],
+        "updateUrl": "",
+        "url": "https://github.com/namigra/school-project-mod/",
+        "version": "${version}"
+    }
+]

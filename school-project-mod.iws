@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10b531bb-0464-4dfa-b69e-b1bd15db6a42" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/SchoolProjectVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school-project-mod.api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school-project-mod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school-project-mod.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school-project-mod.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/school-project-mod.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProjectVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/block/SchoolBlock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/block/SchoolBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/item/SchoolItem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/item/SchoolItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/item/block/SchoolItemBlock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/register/IRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/register/SchoolBlockRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/register/SchoolItemRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/lang/en_US.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/lang/ja_JP.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="school-project-mod" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="school-project-mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="school-project-mod" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectId" id="2CkkP91suTABjP6Y0IVR3V66IBz" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ms0503/ドキュメント/school-project-mod/school-project-mod.ipr",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "プロジェクト",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="jp.ngri.schoolproject.item" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.school-project-mod [build]">
+    <configuration default="true" factoryName="Applet" type="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option enabled="false" name="BuildArtifacts" />
+        <option enabled="true" name="Make" />
+      </method>
+    </configuration>
+    <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="school-project-mod" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="school-project-mod" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="school-project-mod [build]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="school-project-mod [runClient]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="school-project-mod [runServer]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.school-project-mod [build]" />
+      <item itemvalue="Gradle.school-project-mod [runClient]" />
+      <item itemvalue="Gradle.school-project-mod [runServer]" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="UPDATE_RUN_STATUS" value="false" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10b531bb-0464-4dfa-b69e-b1bd15db6a42" name="変更" comment="" />
+      <created>1659353943338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659353943338</updated>
+      <workItem from="1659353944541" duration="5729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+</project>
