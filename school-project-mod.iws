@@ -5,58 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b531bb-0464-4dfa-b69e-b1bd15db6a42" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/SchoolProjectVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school-project-mod.api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school-project-mod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school-project-mod.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school-project-mod.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/school-project-mod.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProjectVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/block/SchoolBlock1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/block/SchoolBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/item/SchoolItem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/item/SchoolItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/item/block/SchoolItemBlock1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/register/IRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/register/SchoolBlockRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/register/SchoolItemRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/lang/en_US.lang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/lang/ja_JP.lang" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/blocks/Block1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/textures/items/Item1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProjectTab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school-project-mod.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/school-project-mod.api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school-project-mod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/school-project-mod.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school-project-mod.iws" beforeDir="false" afterPath="$PROJECT_DIR$/school-project-mod.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school-project-mod.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/school-project-mod.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school-project-mod.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/school-project-mod.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProjectVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/SchoolProjectVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/block/SchoolBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/block/SchoolBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/item/SchoolItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/item/SchoolItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/register/SchoolItemRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ngri/schoolproject/register/SchoolItemRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/lang/ja_JP.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/schoolproject/lang/ja_JP.lang" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +160,7 @@
       <recent name="jp.ngri.schoolproject.item" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.school-project-mod [build]">
+  <component name="RunManager" selected="Gradle.school-project-mod [publish]">
     <configuration default="true" factoryName="Applet" type="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -279,6 +243,27 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="school-project-mod [publish]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publish" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="school-project-mod [runClient]" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -346,6 +331,7 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.school-project-mod [build]" />
+      <item itemvalue="Gradle.school-project-mod [publish]" />
       <item itemvalue="Gradle.school-project-mod [runClient]" />
       <item itemvalue="Gradle.school-project-mod [runServer]" />
     </list>
@@ -372,7 +358,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659353943338</updated>
-      <workItem from="1659353944541" duration="5729000" />
+      <workItem from="1659353944541" duration="14494000" />
     </task>
     <servers />
   </component>

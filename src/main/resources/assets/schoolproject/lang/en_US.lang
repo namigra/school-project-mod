@@ -16,6 +16,7 @@ item.item1.12.name=Item1
 item.item1.13.name=Item1
 item.item1.14.name=Item1
 item.item1.15.name=Item1
+itemGroup.SchoolProject=School Project
 tile.block1.name=Block1
 tile.block1.0.name=Block1
 tile.block1.1.name=Block1
