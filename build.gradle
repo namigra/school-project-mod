@@ -21,7 +21,7 @@ apply plugin: 'java'
 apply plugin: 'forge'
 apply plugin: 'maven-publish'
 
-version = '1.0.1'
+version = '1.0.3'
 group = 'jp.ngri'
 archivesBaseName = 'SchoolProject'
 
@@ -75,7 +75,10 @@ task javadocJar(type: Jar, dependsOn: javadoc) {
 publishing {
     publications {
         schoolProject(MavenPublication) {
-            from components.java
+            artifact('build/libs/' + archivesBaseName + '-' + version + '.jar') {
+                classifier = ''
+                extension = 'jar'
+            }
             artifact javadocJar {
                 classifier = 'javadoc'
                 extension = 'jar'
@@ -99,3 +102,5 @@ publishing {
         }
     }
 }
+
+publish.dependsOn.add(build)

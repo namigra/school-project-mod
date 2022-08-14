@@ -10,7 +10,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.util.IIcon;
 
 public class SchoolItem1 extends Item {
-    private IIcon[] icons = new IIcon[16];
+    private final IIcon[] icons = new IIcon[16];
 
     public SchoolItem1() {
         super();
@@ -43,6 +43,6 @@ public class SchoolItem1 extends Item {
 
     @Override
     public String getUnlocalizedName(ItemStack item) {
-        return super.getUnlocalizedName() + "." + item.getItemDamage();
+        return super.getUnlocalizedName() + "." + (item.getItemDamage() & 15);
     }
 }

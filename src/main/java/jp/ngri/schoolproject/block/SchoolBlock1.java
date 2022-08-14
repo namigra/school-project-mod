@@ -12,10 +12,10 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.util.IIcon;
 
 public class SchoolBlock1 extends Block {
-    private IIcon[] icons = new IIcon[16];
+    private final IIcon[] icons = new IIcon[16];
 
     protected SchoolBlock1() {
-        super(Material.air);
+        super(Material.cloth);
     }
 
     @Override
